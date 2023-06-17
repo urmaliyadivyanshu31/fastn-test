@@ -1,0 +1,33 @@
+-- import: package/header as navbar
+-- import: package/base-layout as layout
+-- import: package/lib as lib
+-- import: package/toast as github
+-- import: package/button as button
+-- import: package/social-buttons as social
+
+-- layout.base-layout:
+
+--navbar.header:
+logo: $assets.files.images.logo.svg
+logoURL: /portfolio
+header-item1: Home
+header-item1: About
+header-item1: Projects
+header-item1: Contact
+
+header-item-link: /portfolio/home
+header-item-link: /portfolio/about
+header-item-link: /portfolio/projects
+header-item-link: /portfolio/contact
+cta-item1: Resume
+cta-item-link: https://www.github.com/urmaliyadivyanshu31
+
+--github.toast:
+title: Helooo
+link:
+
+
+
+
+
+-- end: layout.base-layout

@@ -71,7 +71,7 @@ spacing.fixed.px: 20
 
 -- lib.hero-ui-base-text-wrapper:
 firstTitle: I'm
-secondTitle: YOUR_NAME,
+secondTitle: Divyanshu Urmaliya,
 
 -- lib.hero-ui-base-text-wrapper:
 firstTitle: frontend
@@ -94,12 +94,12 @@ width.fixed.px: 700
 spacing.fixed.px: 10
 
 -- button.secondary: 
-title: Hire me
-link: mailto:YOUR_EMAIL_ADDRESS
+title: Give Me a Job
+link: mailto:urmaliyadiv04@gmail.com
 
 -- button.primary: 
 title: Schedule a Meeting
-link: YOUR_MEETING_HANLDE
+link: calendly.com/0xdiv
 isNewTab: true
 
 -- end: ftd.row
@@ -117,15 +117,15 @@ isNewTab: true
 spacing.fixed.px: 10
 
 -- social.social-button-wrapper:
-link: YOUR_LINKEDIN_HANLDE
+link: www.github.com/urmaliyadivyanshu31
 image: $assets.files.images.linkedin.png
 
 -- social.social-button-wrapper:
-link: YOUR_TWITTER_HANDLE
+link: www.twitter.com/Divyanshueth
 image: $assets.files.images.twitter.png
 
 -- social.social-button-wrapper:
-link: YOUR_GITHUB_HANLDE
+link: www.github.com/urmaliyadivyanshu31
 image: $assets.files.images.github.png
 
 -- social.social-button-wrapper:
